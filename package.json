@@ -1,5 +1,5 @@
 {
-  "name": "quiz-cli",
+  "name": "millionaire",
   "version": "1.0.0",
   "description": "This is a simple code for a quiz cli",
   "main": "App.js",

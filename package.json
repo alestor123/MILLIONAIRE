@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/alestor123/QUIZ-CLI/issues"
   },
-  "homepage": "https://github.com/alestor123/QUIZ-CLI#readme"
+  "homepage": "https://github.com/alestor123/QUIZ-CLI#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cli-select": "^1.1.2"
+  }
 }

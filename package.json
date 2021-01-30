@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for a quiz cli",
   "main": "App.js",
+  "bin": {
+    "quiz": "cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

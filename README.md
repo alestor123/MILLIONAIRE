@@ -13,7 +13,7 @@
 <a href="https://npmjs.org/package/millionaire">
 <img src="https://nodei.co/npm/millionaire.png"></a>
 </p>
-
+<img src="https://pbs.twimg.com/media/EtC-JODU4AMGG_B?format=jpg&name=large">
 # Documentation
 
 # Quick use
